@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnThi</string>
+
+    <string-array name="namHoc">
+        <item>Năm nhất</item>
+        <item>Năm hai</item>
+        <item>Năm ba</item>
+        <item>Năm bốn</item>
+    </string-array>
+</resources>
